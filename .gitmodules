@@ -1,3 +1,24 @@
 [submodule "d2l-ai"]
 	path = d2l-ai
 	url = https://github.com/d2l-ai/berkeley-stat-157
+[submodule "Book/Deep-Learning-with-PyTorch-Tutorials"]
+	path = Book/Deep-Learning-with-PyTorch-Tutorials
+	url = https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials.git
+[submodule "Book/Deep-Learning-with-TensorFlow-book"]
+	path = Book/Deep-Learning-with-TensorFlow-book
+	url = https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book.git
+[submodule "Keras/NLP-Project"]
+	path = Keras/NLP-Project
+	url = https://github.com/shawroad/NLP-Project.git
+[submodule "pytorch/NLP_pytorch_project"]
+	path = pytorch/NLP_pytorch_project
+	url = https://github.com/shawroad/NLP_pytorch_project.git
+[submodule "pytorch/pytorch-tutorials-examples-and-books"]
+	path = pytorch/pytorch-tutorials-examples-and-books
+	url = https://github.com/bat67/pytorch-tutorials-examples-and-books.git
+[submodule "telecomm/LDPC/Neural-Protograph-LDPC-Decoding"]
+	path = telecomm/LDPC/Neural-Protograph-LDPC-Decoding
+	url = https://github.com/KyrieTan/Neural-Protograph-LDPC-Decoding.git
+[submodule "telecomm/sionna"]
+	path = telecomm/sionna
+	url = https://github.com/NVlabs/sionna
